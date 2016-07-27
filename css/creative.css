@@ -24,11 +24,14 @@ hr.light {
     border-color: #fff;
 }
 
-a {
+/*a {
     color: #f05f40;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
+}*/
+a {
+    color:blue;
 }
 
 a:hover,
